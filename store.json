@@ -1,0 +1,42 @@
+{
+  "brand": "The Billionaire",
+  "bio": "The Billionaire is an inspirational lifestyle brand for people who dream big and pursue success with purpose.",
+  "whatsapp": "",
+  "email": "",
+  "business": {
+    "legal_name": "",
+    "address": ""
+  },
+  "policy": {
+    "dispatch_days": "2-3"
+  },
+  "legal_updated": "10 November 2026",
+  "demo": true,
+  "bank": {
+    "name": "Chris's account name",
+    "bank": "Bank name",
+    "acc": "Account number",
+    "type": "Account type",
+    "branch": "Branch code"
+  },
+  "delivery": {
+    "default": 0,
+    "areas": []
+  },
+  "payfast": {
+    "enabled": false,
+    "demo_checkout": true
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "The Billionaire Eau de Cologne 100ml",
+      "title_html": "The Billionaire<br><em>Eau de Cologne</em>",
+      "meta": "For Men · 100ml / 3.4 fl. oz.",
+      "description": "Confidence you can wear. Created as a daily reminder to believe in your potential and keep moving towards your goals.",
+      "price": 999,
+      "image": "assets/img/bottle-cutout.webp"
+    }
+  ],
+  "static_preview": true
+}
